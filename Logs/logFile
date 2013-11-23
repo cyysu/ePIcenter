@@ -1,0 +1,654 @@
+[29-09-2013 18:22:55] [USBdaemon] ***Starting***
+[29-09-2013 18:23:05] [USBdaemon] ***Starting***
+[29-09-2013 18:24:05] [USBdaemon] Connecting USB2
+[29-09-2013 18:26:33] [USBdaemon] ***Starting***
+[29-09-2013 18:28:07] [USBdaemon] ***Starting***
+[29-09-2013 18:29:02] [USBdaemon] Connecting USB1
+[29-09-2013 18:29:17] [USBdaemon] USB1 connected
+[29-09-2013 18:29:44] [USBdaemon] USB1 disconnected
+[29-09-2013 18:32:35] [USBdaemon] ***Starting***
+[29-09-2013 18:33:43] [UBSdaemon] detectado modem
+
+[29-09-2013 18:34:13] [USBdaemon] Connecting USB1
+[29-09-2013 18:34:28] [USBdaemon] USB1 connected
+[29-09-2013 21:07:53] [USBdaemon] ***Starting***
+[29-09-2013 21:07:58] [UBSdaemon] detectado modem
+
+[29-09-2013 21:08:58] [USBdaemon] Connecting USB1
+[29-09-2013 21:09:13] [USBdaemon] USB1 connected
+[29-09-2013 22:25:08] [USBdaemon] ***Starting***
+[29-09-2013 22:25:13] [UBSdaemon] detectado modem
+
+[29-09-2013 22:26:13] [USBdaemon] Connecting USB1
+[29-09-2013 22:26:28] [USBdaemon] USB1 failed connect
+[29-09-2013 22:47:16] [USBdaemon] USB1 disconnected
+[29-09-2013 23:00:14] [USBdaemon] ***Starting***
+[29-09-2013 23:01:43] [UBSdaemon] detectado modem
+
+[29-09-2013 23:02:43] [USBdaemon] Connecting USB2
+[29-09-2013 23:02:58] [USBdaemon] USB2 connected
+[29-09-2013 23:06:42] [USBdaemon] USB2 disconnected
+[30-09-2013 09:59:37] [USBdaemon] ***Starting***
+[30-09-2013 09:59:42] [UBSdaemon] detectado modem
+
+[30-09-2013 10:00:42] [USBdaemon] Connecting USB1
+[30-09-2013 10:00:57] [USBdaemon] USB1 failed connect
+[30-09-2013 10:01:03] [UBSdaemon] detectado modem
+
+[30-09-2013 10:02:03] [USBdaemon] Connecting USB1
+[30-09-2013 10:02:18] [USBdaemon] USB1 failed connect
+[03-10-2013 09:49:33] [USBdaemon] ***Starting***
+[03-10-2013 09:50:30] [USBdaemon] ***Starting***
+[03-10-2013 09:50:48] [USBdaemon] ***Starting***
+[03-10-2013 09:50:55] [USBdaemon] ***Starting***
+[03-10-2013 09:51:19] [USBdaemon] ***Starting***
+[03-10-2013 09:51:19] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 09:54:33] [USBdaemon] ***Starting***
+[03-10-2013 09:54:33] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 09:54:43] [USBdaemon] ***Starting***
+[03-10-2013 09:54:43] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 09:55:13] [USBdaemon] False alarm
+[03-10-2013 09:56:41] [USBdaemon] ***Starting***
+[03-10-2013 09:56:41] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 09:56:46] [USBdaemon] False alarm
+[03-10-2013 09:58:06] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 09:58:11] [USBdaemon] Connecting USB modem
+[03-10-2013 09:58:11] [USBdaemon] Connecting USB modem
+[03-10-2013 09:58:11] [USBdaemon] False alarm
+[03-10-2013 10:00:38] [USBdaemon] ***Starting***
+[03-10-2013 10:00:38] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:00:58] [USBdaemon] False alarm
+[03-10-2013 10:01:04] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:01:24] [USBdaemon] Connecting USB modem
+[03-10-2013 10:01:24] [USBdaemon] Connecting USB modem
+[03-10-2013 10:01:24] [USBdaemon] False alarm
+[03-10-2013 10:02:06] [UBSdaemon] removido dispositivo USB
+[03-10-2013 10:02:18] [USBdaemon] ***Starting***
+[03-10-2013 10:02:18] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:02:38] [USBdaemon] Connecting USB modem
+[03-10-2013 10:02:38] [USBdaemon] Connecting USB modem
+[03-10-2013 10:02:38] [USBdaemon] False alarm
+[03-10-2013 10:02:39] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:02:59] [USBdaemon] Connecting USB modem
+[03-10-2013 10:02:59] [USBdaemon] Connecting USB modem
+[03-10-2013 10:02:59] [USBdaemon] False alarm
+[03-10-2013 10:04:04] [USBdaemon] ***Starting***
+[03-10-2013 10:04:04] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:04:24] [USBdaemon] False alarm
+[03-10-2013 10:04:51] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:05:11] [USBdaemon] Connecting USB modem
+[03-10-2013 10:05:11] [USBdaemon] Connecting USB modem
+[03-10-2013 10:05:11] [USBdaemon] False alarm
+[03-10-2013 10:07:02] [USBdaemon] ***Starting***
+[03-10-2013 10:07:02] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:07:22] [USBdaemon] Connecting USB modem
+[03-10-2013 10:07:22] [USBdaemon] False alarm
+[03-10-2013 10:07:24] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:07:44] [USBdaemon] Connecting USB modem
+[03-10-2013 10:07:44] [USBdaemon] False alarm
+[03-10-2013 10:08:21] [USBdaemon] ***Starting***
+[03-10-2013 10:08:21] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:08:41] [USBdaemon] False alarm
+[03-10-2013 10:08:55] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:09:15] [USBdaemon] Connecting USB modem
+[03-10-2013 10:09:15] [USBdaemon] False alarm
+[03-10-2013 10:10:37] [UBSdaemon] removido dispositivo USB
+[03-10-2013 10:11:02] [USBdaemon] ***Starting***
+[03-10-2013 10:11:19] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:11:39] [USBdaemon] Connecting USB modem
+[03-10-2013 10:14:08] [USBdaemon] ***Starting***
+[03-10-2013 10:14:08] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:14:28] [USBdaemon] Connecting USB modem
+[03-10-2013 10:14:28] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[03-10-2013 10:19:46] [USBdaemon] ***Starting***
+[03-10-2013 10:19:46] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:20:06] [USBdaemon] Connecting USB modem
+[03-10-2013 10:20:06] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[03-10-2013 10:20:06] [USBdaemon] Check Logs/logUSB1 for details
+[03-10-2013 10:21:40] [UBSdaemon] removido dispositivo USB
+[03-10-2013 10:27:49] [UBSdaemon] adionado dispositivo USB
+[03-10-2013 10:28:09] [USBdaemon] Connecting USB modem
+[03-10-2013 10:28:09] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[03-10-2013 10:28:09] [USBdaemon] Check Logs/logUSB1 for details
+[03-10-2013 10:29:57] [UBSdaemon] removido dispositivo USB
+[05-10-2013 22:45:35] [USBdaemon] ***Starting***
+[05-10-2013 22:45:35] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:45:55] [USBdaemon] Connecting USB modem
+[05-10-2013 22:45:55] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:45:55] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 22:46:31] [USBdaemon] ***Starting***
+[05-10-2013 22:46:31] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:46:51] [USBdaemon] Connecting USB modem
+[05-10-2013 22:46:51] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:46:51] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 22:52:44] [USBdaemon] ***Starting***
+[05-10-2013 22:52:44] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:53:04] [USBdaemon] Connecting USB modem
+[05-10-2013 22:53:04] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:53:04] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 22:53:15] [USBdaemon] ***Starting***
+[05-10-2013 22:53:15] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:53:35] [USBdaemon] Connecting USB modem
+[05-10-2013 22:53:35] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:53:35] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 22:55:57] [USBdaemon] ***Starting***
+[05-10-2013 22:55:57] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:56:17] [USBdaemon] Connecting USB modem
+[05-10-2013 22:56:17] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:56:17] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 22:56:46] [USBdaemon] ***Starting***
+[05-10-2013 22:56:46] [UBSdaemon] adionado dispositivo USB
+[05-10-2013 22:57:06] [USBdaemon] Connecting USB modem
+[05-10-2013 22:57:06] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[05-10-2013 22:57:06] [USBdaemon] Check Logs/logUSB1 for details
+[05-10-2013 23:14:15] [UBSdaemon] removido dispositivo USB
+[06-10-2013 10:29:49] [USBdaemon] ***Starting***
+[06-10-2013 10:30:44] [USBdaemon] ***Starting***
+[06-10-2013 10:32:22] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 10:32:42] [USBdaemon] Connecting USB modem
+[06-10-2013 10:32:42] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 10:32:42] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 10:33:48] [USBdaemon] ***Starting***
+[06-10-2013 10:33:48] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 10:34:08] [USBdaemon] Connecting USB modem
+[06-10-2013 10:34:08] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 10:34:08] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 10:37:38] [USBdaemon] ***Starting***
+[06-10-2013 10:37:38] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 10:37:58] [USBdaemon] Connecting USB modem
+[06-10-2013 10:37:58] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 10:37:58] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 10:47:15] [UBSdaemon] removido dispositivo USB
+[06-10-2013 17:49:43] [USBdaemon] ***Starting***
+[06-10-2013 17:49:43] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 17:50:03] [USBdaemon] Connecting USB modem
+[06-10-2013 17:50:03] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 17:50:03] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 17:50:14] [USBdaemon] ***Starting***
+[06-10-2013 17:50:14] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 17:50:34] [USBdaemon] Connecting USB modem
+[06-10-2013 17:50:34] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 17:50:34] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 17:50:43] [USBdaemon] ***Starting***
+[06-10-2013 17:50:43] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 17:51:03] [USBdaemon] Connecting USB modem
+[06-10-2013 17:51:03] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 17:51:03] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 17:52:36] [UBSdaemon] removido dispositivo USB
+[06-10-2013 17:52:51] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 17:53:11] [USBdaemon] Connecting USB modem
+[06-10-2013 17:53:11] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 17:53:11] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 17:58:44] [USBdaemon] ***Starting***
+[06-10-2013 17:58:44] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 17:59:04] [USBdaemon] Connecting USB modem
+[06-10-2013 17:59:04] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 17:59:04] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 17:59:09] [UBSdaemon] removido dispositivo USB
+[06-10-2013 17:59:29] [USBdaemon] ***Starting***
+[06-10-2013 17:59:49] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 18:00:09] [USBdaemon] Connecting USB modem
+[06-10-2013 18:00:09] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 18:00:09] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 18:02:12] [USBdaemon] ***Starting***
+[06-10-2013 18:02:12] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 18:02:32] [USBdaemon] Connecting USB modem
+[06-10-2013 18:02:32] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 18:02:32] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 18:03:26] [UBSdaemon] removido dispositivo USB
+[06-10-2013 18:03:57] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 18:04:17] [USBdaemon] Connecting USB modem
+[06-10-2013 18:04:17] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 18:04:17] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 20:42:55] [UBSdaemon] removido dispositivo USB
+[06-10-2013 20:42:56] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 20:43:16] [USBdaemon] False alarm
+[06-10-2013 20:43:17] [UBSdaemon] removido dispositivo USB
+[06-10-2013 20:43:29] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 20:43:49] [USBdaemon] Connecting USB modem
+[06-10-2013 20:43:49] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 20:43:49] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 20:45:38] [UBSdaemon] removido dispositivo USB
+[06-10-2013 20:47:38] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 20:47:58] [USBdaemon] Connecting USB modem
+[06-10-2013 20:47:58] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 20:47:58] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 21:15:29] [UBSdaemon] removido dispositivo USB
+[06-10-2013 21:48:41] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 21:49:01] [USBdaemon] Connecting USB modem
+[06-10-2013 21:49:01] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 21:49:01] [USBdaemon] Check Logs/logUSB1 for details
+[06-10-2013 21:59:54] [UBSdaemon] removido dispositivo USB
+[06-10-2013 22:01:05] [UBSdaemon] adionado dispositivo USB
+[06-10-2013 22:01:26] [USBdaemon] Connecting USB modem
+[06-10-2013 22:01:26] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[06-10-2013 22:01:26] [USBdaemon] Check Logs/logUSB1 for details
+[07-10-2013 19:54:43] [USBdaemon] ***Starting***
+[07-10-2013 19:54:55] [UBSdaemon] adionado dispositivo USB
+[07-10-2013 19:55:15] [USBdaemon] Connecting USB modem
+[07-10-2013 19:55:15] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[07-10-2013 19:55:15] [USBdaemon] Check Logs/logUSB1 for details
+[07-10-2013 19:58:03] [UBSdaemon] removido dispositivo USB
+[07-10-2013 19:58:20] [UBSdaemon] adionado dispositivo USB
+[07-10-2013 19:58:40] [USBdaemon] Connecting USB modem
+[07-10-2013 19:58:40] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[07-10-2013 19:58:40] [USBdaemon] Check Logs/logUSB1 for details
+[07-10-2013 20:03:33] [USBdaemon] ***Starting***
+[07-10-2013 20:03:34] [UBSdaemon] adionado dispositivo USB
+[07-10-2013 20:03:54] [USBdaemon] Connecting USB modem
+[07-10-2013 20:03:54] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[07-10-2013 20:03:54] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 18:18:26] [USBdaemon] ***Starting***
+[08-10-2013 18:19:39] [USBdaemon] ***Starting***
+[08-10-2013 18:20:02] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 18:20:22] [USBdaemon] Connecting USB modem
+[08-10-2013 18:20:22] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[08-10-2013 18:20:22] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 18:21:56] [UBSdaemon] removido dispositivo USB
+[08-10-2013 19:02:14] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:02:34] [USBdaemon] Connecting USB modem
+[08-10-2013 19:02:34] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[08-10-2013 19:02:34] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 19:04:37] [USBdaemon] ***Starting***
+[08-10-2013 19:04:37] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:05:13] [USBdaemon] ***Starting***
+[08-10-2013 19:05:13] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:05:33] [USBdaemon] Connecting USB modem
+[08-10-2013 19:05:33] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[08-10-2013 19:05:33] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 19:05:56] [UBSdaemon] removido dispositivo USB
+[08-10-2013 19:06:07] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:06:27] [USBdaemon] Connecting USB modem
+[08-10-2013 19:06:27] [USBdaemon] Fired wvdial at ttyUSB0, hope it works 
+[08-10-2013 19:06:27] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 19:07:39] [USBdaemon] ***Starting***
+[08-10-2013 19:07:39] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:07:59] [USBdaemon] Connecting USB modem
+[08-10-2013 19:07:59] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[08-10-2013 19:07:59] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 19:28:17] [USBdaemon] ***Starting***
+[08-10-2013 19:28:17] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:28:27] [USBdaemon] ***Starting***
+[08-10-2013 19:28:27] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 19:28:47] [USBdaemon] Connecting USB modem
+[08-10-2013 19:28:47] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[08-10-2013 19:28:47] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 19:57:36] [UBSdaemon] removido dispositivo USB
+[08-10-2013 20:31:40] [USBdaemon] ***Starting***
+[08-10-2013 20:31:40] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 20:32:00] [USBdaemon] Connecting USB modem
+[08-10-2013 20:32:00] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[08-10-2013 20:32:00] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 20:37:10] [UBSdaemon] removido dispositivo USB
+[08-10-2013 20:47:30] [USBdaemon] ***Starting***
+[08-10-2013 20:48:05] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 20:48:25] [USBdaemon] Connecting USB modem
+[08-10-2013 20:48:25] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[08-10-2013 20:48:25] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 20:50:50] [UBSdaemon] removido dispositivo USB
+[08-10-2013 20:50:58] [UBSdaemon] adionado dispositivo USB
+[08-10-2013 20:51:18] [USBdaemon] Connecting USB modem
+[08-10-2013 20:51:18] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[08-10-2013 20:51:18] [USBdaemon] Check Logs/logUSB1 for details
+[08-10-2013 23:42:22] [UBSdaemon] removido dispositivo USB
+[09-10-2013 21:19:41] [USBdaemon] ***Starting***
+[09-10-2013 21:19:41] [UBSdaemon] adionado dispositivo USB
+[09-10-2013 21:20:01] [USBdaemon] Connecting USB modem
+[09-10-2013 21:20:02] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[09-10-2013 21:20:02] [USBdaemon] Check Logs/logUSB1 for details
+[09-10-2013 21:21:45] [USBdaemon] ***Starting***
+[09-10-2013 21:21:45] [UBSdaemon] adionado dispositivo USB
+[09-10-2013 21:22:05] [USBdaemon] Connecting USB modem
+[09-10-2013 21:22:05] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[09-10-2013 21:22:05] [USBdaemon] Check Logs/logUSB1 for details
+[09-10-2013 21:25:28] [UBSdaemon] removido dispositivo USB
+[09-10-2013 21:25:30] [USBdaemon] ***Starting***
+[09-10-2013 21:25:52] [UBSdaemon] adionado dispositivo USB
+[09-10-2013 21:26:12] [USBdaemon] Connecting USB modem
+[09-10-2013 21:26:12] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[09-10-2013 21:26:12] [USBdaemon] Check Logs/logUSB1 for details
+[09-10-2013 21:29:25] [UBSdaemon] removido dispositivo USB
+[09-10-2013 21:29:31] [UBSdaemon] adionado dispositivo USB
+[10-10-2013 21:27:55] [USBdaemon] ***Starting***
+[11-10-2013 19:12:06] [USBdaemon] ***Starting***
+[11-10-2013 19:12:06] [UBSdaemon] adionado dispositivo USB
+[11-10-2013 19:12:26] [USBdaemon] False alarm
+[11-10-2013 19:16:01] [USBdaemon] ***Starting***
+[11-10-2013 19:16:01] [UBSdaemon] adionado dispositivo USB
+[11-10-2013 19:16:21] [USBdaemon] False alarm
+[11-10-2013 19:19:48] [UBSdaemon] removido dispositivo USB
+[11-10-2013 19:19:55] [UBSdaemon] adionado dispositivo USB
+[11-10-2013 19:20:15] [USBdaemon] False alarm
+[12-10-2013 10:55:50] [USBdaemon] ***Starting***
+[12-10-2013 10:55:50] [UBSdaemon] adionado dispositivo USB
+[12-10-2013 10:56:10] [USBdaemon] Connecting USB modem
+[12-10-2013 10:56:10] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[12-10-2013 10:56:10] [USBdaemon] Check Logs/logUSB1 for details
+[12-10-2013 17:11:37] [USBdaemon] ***Starting***
+[12-10-2013 17:11:38] [UBSdaemon] adionado dispositivo USB
+[12-10-2013 22:58:13] [UBSdaemon] removido dispositivo USB
+[12-10-2013 23:16:26] [UBSdaemon] adionado dispositivo USB
+[12-10-2013 23:16:46] [USBdaemon] False alarm
+[12-10-2013 23:16:47] [UBSdaemon] removido dispositivo USB
+[12-10-2013 23:16:52] [UBSdaemon] adionado dispositivo USB
+[12-10-2013 23:17:12] [USBdaemon] Connecting USB modem
+[12-10-2013 23:17:12] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[12-10-2013 23:17:12] [USBdaemon] Check Logs/logUSB1 for details
+[13-10-2013 11:07:48] [USBdaemon] ***Starting***
+[13-10-2013 11:07:48] [UBSdaemon] adionado dispositivo USB
+[13-10-2013 11:08:08] [USBdaemon] Connecting USB modem
+[13-10-2013 11:08:08] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[13-10-2013 11:08:08] [USBdaemon] Check Logs/logUSB1 for details
+[13-10-2013 17:42:43] [UBSdaemon] removido dispositivo USB
+[13-10-2013 18:15:09] [USBdaemon] ***Starting***
+[13-10-2013 18:15:51] [UBSdaemon] adionado dispositivo USB
+[13-10-2013 18:16:11] [USBdaemon] Connecting USB modem
+[13-10-2013 18:16:11] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[13-10-2013 18:16:11] [USBdaemon] Check Logs/logUSB1 for details
+[12-11-2013 21:44:54] [USBdaemon] ***Starting***
+[12-11-2013 21:44:54] [UBSdaemon] adionado dispositivo USB
+[12-11-2013 21:45:14] [USBdaemon] Connecting USB modem
+[12-11-2013 21:45:14] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[12-11-2013 21:45:14] [USBdaemon] Check Logs/logUSB1 for details
+[12-11-2013 22:19:44] [UBSdaemon] removido dispositivo USB
+[12-11-2013 22:19:56] [UBSdaemon] adionado dispositivo USB
+[12-11-2013 22:34:04] [USBdaemon] ***Starting***
+[12-11-2013 22:34:04] [UBSdaemon] adionado dispositivo USB
+[12-11-2013 22:34:24] [USBdaemon] Connecting USB modem
+[12-11-2013 22:34:24] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[12-11-2013 22:34:24] [USBdaemon] Check Logs/logUSB1 for details
+[13-11-2013 20:02:58] [USBdaemon] ***Starting***
+[13-11-2013 20:02:58] [UBSdaemon] adionado dispositivo USB
+[13-11-2013 20:03:18] [USBdaemon] Connecting USB modem
+[13-11-2013 20:03:18] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[13-11-2013 20:03:18] [USBdaemon] Check Logs/logUSB1 for details
+[14-11-2013 21:37:35] [USBdaemon] ***Starting***
+[14-11-2013 21:37:36] [UBSdaemon] adionado dispositivo USB
+[14-11-2013 21:37:56] [USBdaemon] Connecting USB modem
+[14-11-2013 21:37:56] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[14-11-2013 21:37:56] [USBdaemon] Check Logs/logUSB1 for details
+[15-11-2013 00:05:23] [UBSdaemon] removido dispositivo USB
+[18-11-2013 21:34:24] [USBdaemon] ***Starting***
+[18-11-2013 21:34:24] [UBSdaemon] adionado dispositivo USB
+[18-11-2013 21:34:44] [USBdaemon] Connecting USB modem
+[18-11-2013 21:34:45] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[18-11-2013 21:34:45] [USBdaemon] Check Logs/logUSB1 for details
+[18-11-2013 21:44:55] [UBSdaemon] removido dispositivo USB
+[18-11-2013 21:50:55] [UBSdaemon] adionado dispositivo USB
+[18-11-2013 21:51:21] [USBdaemon] ***Starting***
+[18-11-2013 21:51:21] [UBSdaemon] adionado dispositivo USB
+[18-11-2013 21:51:41] [USBdaemon] Connecting USB modem
+[18-11-2013 21:51:41] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[18-11-2013 21:51:41] [USBdaemon] Check Logs/logUSB1 for details
+[21-11-2013 19:11:31] [USBdaemon] ***Starting***
+[21-11-2013 19:11:31] [UBSdaemon] adionado dispositivo USB
+[21-11-2013 19:11:51] [USBdaemon] Connecting USB modem
+[21-11-2013 19:11:51] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[21-11-2013 19:11:51] [USBdaemon] Check Logs/logUSB1 for details
+[22-11-2013 19:20:43] [USBdaemon] ***Starting***
+[22-11-2013 19:20:43] [UBSdaemon] adionado dispositivo USB
+[22-11-2013 19:21:03] [USBdaemon] Connecting USB modem
+[22-11-2013 19:21:03] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[22-11-2013 19:21:03] [USBdaemon] Check Logs/logUSB1 for details
+[23-11-2013 01:41:40] [UBSdaemon] removido dispositivo USB
+[23-11-2013 12:22:40] [USBdaemon] ***Starting***
+[23-11-2013 12:22:40] [UBSdaemon] adionado dispositivo USB
+[23-11-2013 12:23:00] [USBdaemon] Connecting USB modem
+[23-11-2013 12:23:00] [USBdaemon] Fired wvdial at ttyUSB3, hope it works 
+[23-11-2013 12:23:00] [USBdaemon] Check Logs/logUSB1 for details
+[23-11-2013 19:12:01] [usbTask] usbTask started
+[23-11-2013 19:12:01] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:12:01] [usbTask] No ttyUSB found
+[23-11-2013 19:12:11] [usbTask] usbTask started
+[23-11-2013 19:12:11] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:12:12] [usbTask] No ttyUSB found
+[23-11-2013 19:12:36] [usbTask] usbTask started
+[23-11-2013 19:12:36] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:12:36] [usbTask] No ttyUSB found
+[23-11-2013 19:13:06] [usbTask] usbTask started
+[23-11-2013 19:13:06] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:13:06] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:15:02] [usbTask] usbTask started
+[23-11-2013 19:15:02] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:15:02] [usbTask] Found ttyUSB%d 
+[23-11-2013 19:15:02] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:15:02] [usbTask] Found ttyUSB%d 
+[23-11-2013 19:17:38] [usbTask] usbTask started
+[23-11-2013 19:17:38] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:17:38] [usbTask] Found ttyUSB
+[23-11-2013 19:17:38] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:17:38] [usbTask] Found ttyUSB
+[23-11-2013 19:20:49] [usbTask] usbTask started
+[23-11-2013 19:20:49] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:20:49] [usbTask] Found ttyUSB
+[23-11-2013 19:20:49] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:20:49] [usbTask] Found ttyUSB
+[23-11-2013 19:24:25] [usbTask] usbTask started
+[23-11-2013 19:24:25] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:24:25] [usbTask] Found ttyUSB
+[23-11-2013 19:24:25] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:24:25] [usbTask] Found ttyUSB
+[23-11-2013 19:24:46] [usbTask] usbTask started
+[23-11-2013 19:24:46] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:24:46] [usbTask] Found ttyUSB
+[23-11-2013 19:24:46] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:24:46] [usbTask] Found ttyUSB
+[23-11-2013 19:25:10] [usbTask] usbTask started
+[23-11-2013 19:25:10] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:25:10] [usbTask] Found ttyUSB
+[23-11-2013 19:25:10] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:25:10] [usbTask] Found ttyUSB
+[23-11-2013 19:25:28] [usbTask] usbTask started
+[23-11-2013 19:25:28] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:25:28] [usbTask] Found ttyUSB
+[23-11-2013 19:25:28] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:25:28] [usbTask] Found ttyUSB
+[23-11-2013 19:39:59] [usbTask] usbTask started
+[23-11-2013 19:39:59] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:39:59] [usbTask] No ttyUSB found
+[23-11-2013 19:40:16] [usbTask] usbTask started
+[23-11-2013 19:40:16] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:40:16] [usbTask] No ttyUSB found
+[23-11-2013 19:40:59] [usbTask] usbTask started
+[23-11-2013 19:40:59] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:40:59] [usbTask] No ttyUSB found
+[23-11-2013 19:41:04] [usbTask] usbTask started
+[23-11-2013 19:41:04] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:41:04] [usbTask] No ttyUSB found
+[23-11-2013 19:42:36] [usbTask] usbTask started
+[23-11-2013 19:42:36] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:42:36] [usbTask] Found ttyUSB
+[23-11-2013 19:43:23] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 19:43:23] [usbTask] retry# 0
+[23-11-2013 19:43:29] [usbTask] usbTask started
+[23-11-2013 19:43:29] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:43:29] [usbTask] Found ttyUSB
+[23-11-2013 19:43:29] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 19:43:55] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 19:43:55] [usbTask] retry# 0
+[23-11-2013 19:44:11] [usbTask] usbTask started
+[23-11-2013 19:44:11] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:44:11] [usbTask] Found ttyUSB
+[23-11-2013 19:44:11] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 19:51:22] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 19:51:22] [usbTask] retry# 0
+[23-11-2013 19:52:18] [usbTask] usbTask started
+[23-11-2013 19:52:18] [usbTask] Searching for ttyUSB file
+[23-11-2013 19:52:18] [usbTask] Found ttyUSB
+[23-11-2013 19:52:18] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 20:15:14] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 20:15:14] [usbTask] retry# 0
+[23-11-2013 20:17:56] [usbTask] usbTask started
+[23-11-2013 20:17:56] [usbTask] Searching for ttyUSB file
+[23-11-2013 20:17:56] [usbTask] Found ttyUSB
+[23-11-2013 20:17:56] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 20:24:44] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 20:24:44] [usbTask] retry# 0
+[23-11-2013 20:29:48] [usbTask] usbTask started
+[23-11-2013 20:29:48] [usbTask] Searching for ttyUSB file
+[23-11-2013 20:29:48] [usbTask] Found ttyUSB
+[23-11-2013 20:29:48] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 20:30:21] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 20:30:21] [usbTask] retry# 0
+[23-11-2013 20:30:31] [usbTask] Searching for ttyUSB file
+[23-11-2013 20:30:31] [usbTask] Found ttyUSB
+[23-11-2013 20:30:31] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 20:31:16] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 20:31:16] [usbTask] retry# 0
+[23-11-2013 20:31:29] [usbTask] usbTask started
+[23-11-2013 20:31:29] [usbTask] Searching for ttyUSB file
+[23-11-2013 20:31:30] [usbTask] Found ttyUSB
+[23-11-2013 20:31:30] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 20:51:56] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 20:51:56] [usbTask] retry# 0
+[23-11-2013 21:58:30] [usbTask] usbTask started
+[23-11-2013 21:58:30] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:58:30] [usbTask] Found ttyUSB
+[23-11-2013 21:58:30] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:58:33] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:58:33] [usbTask] retry# 0
+[23-11-2013 21:58:43] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:58:43] [usbTask] Found ttyUSB
+[23-11-2013 21:58:43] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:58:46] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:58:46] [usbTask] retry# 0
+[23-11-2013 21:58:56] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:58:56] [usbTask] Found ttyUSB
+[23-11-2013 21:58:56] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:58:59] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:58:59] [usbTask] retry# 0
+[23-11-2013 21:59:09] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:59:09] [usbTask] Found ttyUSB
+[23-11-2013 21:59:09] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:59:12] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:59:12] [usbTask] retry# 0
+[23-11-2013 21:59:22] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:59:22] [usbTask] Found ttyUSB
+[23-11-2013 21:59:22] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:59:25] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:59:25] [usbTask] retry# 0
+[23-11-2013 21:59:35] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:59:35] [usbTask] Found ttyUSB
+[23-11-2013 21:59:35] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:59:38] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:59:38] [usbTask] retry# 0
+[23-11-2013 21:59:48] [usbTask] Searching for ttyUSB file
+[23-11-2013 21:59:48] [usbTask] Found ttyUSB
+[23-11-2013 21:59:48] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 21:59:51] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 21:59:51] [usbTask] retry# 0
+[23-11-2013 22:00:01] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:00:01] [usbTask] Found ttyUSB
+[23-11-2013 22:00:01] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:00:04] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:00:04] [usbTask] retry# 0
+[23-11-2013 22:00:14] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:00:14] [usbTask] Found ttyUSB
+[23-11-2013 22:00:14] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:00:17] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:00:17] [usbTask] retry# 0
+[23-11-2013 22:00:27] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:00:27] [usbTask] Found ttyUSB
+[23-11-2013 22:00:27] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:00:30] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:00:30] [usbTask] retry# 0
+[23-11-2013 22:00:40] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:00:40] [usbTask] Found ttyUSB
+[23-11-2013 22:00:40] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:00:43] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:00:43] [usbTask] retry# 0
+[23-11-2013 22:00:53] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:00:53] [usbTask] Found ttyUSB
+[23-11-2013 22:00:53] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:00:56] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:00:56] [usbTask] retry# 0
+[23-11-2013 22:01:06] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:01:06] [usbTask] Found ttyUSB
+[23-11-2013 22:01:06] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:01:09] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:01:09] [usbTask] retry# 0
+[23-11-2013 22:01:19] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:01:19] [usbTask] Found ttyUSB
+[23-11-2013 22:01:19] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:01:22] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:01:22] [usbTask] retry# 0
+[23-11-2013 22:01:32] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:01:32] [usbTask] Found ttyUSB
+[23-11-2013 22:01:32] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:01:35] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:01:35] [usbTask] retry# 0
+[23-11-2013 22:01:45] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:01:45] [usbTask] Found ttyUSB
+[23-11-2013 22:01:45] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:01:48] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:01:48] [usbTask] retry# 0
+[23-11-2013 22:01:58] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:01:58] [usbTask] Found ttyUSB
+[23-11-2013 22:01:58] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:02:01] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:02:01] [usbTask] retry# 0
+[23-11-2013 22:02:11] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:02:11] [usbTask] Found ttyUSB
+[23-11-2013 22:02:11] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:02:14] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:02:14] [usbTask] retry# 0
+[23-11-2013 22:02:24] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:02:24] [usbTask] Found ttyUSB
+[23-11-2013 22:02:24] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:02:27] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:02:27] [usbTask] retry# 0
+[23-11-2013 22:02:37] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:02:37] [usbTask] Found ttyUSB
+[23-11-2013 22:02:37] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:02:40] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:02:40] [usbTask] retry# 0
+[23-11-2013 22:02:50] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:02:50] [usbTask] Found ttyUSB
+[23-11-2013 22:02:50] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:02:53] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:02:53] [usbTask] retry# 0
+[23-11-2013 22:03:03] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:03:03] [usbTask] Found ttyUSB
+[23-11-2013 22:03:03] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:03:06] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:03:06] [usbTask] retry# 0
+[23-11-2013 22:03:16] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:03:16] [usbTask] Found ttyUSB
+[23-11-2013 22:03:16] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:03:19] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:03:19] [usbTask] retry# 0
+[23-11-2013 22:03:29] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:03:29] [usbTask] Found ttyUSB
+[23-11-2013 22:03:29] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:03:32] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:03:32] [usbTask] retry# 0
+[23-11-2013 22:03:42] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:03:42] [usbTask] Found ttyUSB
+[23-11-2013 22:03:42] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:03:45] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:03:45] [usbTask] retry# 0
+[23-11-2013 22:03:55] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:03:55] [usbTask] Found ttyUSB
+[23-11-2013 22:03:55] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:03:58] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:03:58] [usbTask] retry# 0
+[23-11-2013 22:04:08] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:04:08] [usbTask] Found ttyUSB
+[23-11-2013 22:04:08] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:04:11] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:04:11] [usbTask] retry# 0
+[23-11-2013 22:04:21] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:04:22] [usbTask] Found ttyUSB
+[23-11-2013 22:04:22] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:04:25] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:04:25] [usbTask] retry# 0
+[23-11-2013 22:04:35] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:04:35] [usbTask] Found ttyUSB
+[23-11-2013 22:04:35] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:04:38] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:04:38] [usbTask] retry# 0
+[23-11-2013 22:04:48] [usbTask] Searching for ttyUSB file
+[23-11-2013 22:04:48] [usbTask] Found ttyUSB
+[23-11-2013 22:04:48] [usbTask] connecting wvdial, check Logs/wvdial.log
+[23-11-2013 22:04:51] [usbTask] usbTask stoped, wvdial fail
+[23-11-2013 22:04:51] [usbTask] retry# 0
